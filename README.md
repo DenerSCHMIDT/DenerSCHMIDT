@@ -49,10 +49,7 @@
 &nbsp;
 &nbsp;
 
- <br>
-    <p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{denerarturschmidt}/count.svg" /></p> 
- <br>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
