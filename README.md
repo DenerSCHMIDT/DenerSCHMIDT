@@ -4,11 +4,9 @@
     <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
     <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-     <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+     <img src="[https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge](https://readme-typing-svg.herokuapp.com/?color=00008b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Dener+Schmidt;I'm+29+years+old;I'm+from+Brazil;I+Graduated+Ciência+da+Computação;Be+Welcome!)](https://git.io/typing-svg)"/>
     </a>
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Dener+Schmidt;I'm+29+years+old;I'm+from+Brazil;I+Graduated+Ciência+da+Computação;Be+Welcome!)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=denerarturschmidt&theme=blue&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
