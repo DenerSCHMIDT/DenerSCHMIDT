@@ -1,14 +1,14 @@
-<h1 align="left">Sobre mim:</h1>
+<h1 align="left">About Me:</h1>
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 </br>
-Olá! Sou Dener Schmidt, desenvolvedor Full Stack.
+Hello! I'm Dener Schmidt, Full Stack Developer.
 </br>
 
-- 📚 Atualmente estou cursando Ciências da Computação.
-- 📧 Como entrar em contato comigo: Dener.empresa.2017@gmail.com
-- 💡 Curiosidade: Estudando atualmente Python, C# e MongoDB.   
+- 📚 I'm currently studying Computer Science.
+- 📧 How to contact me: Dener.empresa.2017@gmail.com
+- 💡 Fun fact: Currently studying Python, C# and MongoDB.   
 
 </br>
 </br>
