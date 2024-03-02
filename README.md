@@ -1,10 +1,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DenerSCHMIDT&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 160px;"/><img src='https://randommeme-five.vercel.app/' style="height: 160px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 160px;"/><img src='https://randommeme-five.vercel.app/' style="height: 160px;"/><img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 ---
