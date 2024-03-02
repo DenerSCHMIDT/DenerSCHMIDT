@@ -1,10 +1,26 @@
+<h1 align="left">Sobre mim:</h1>
+
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+</br>
+Olá! Sou Dener Schmidt, desenvolvedor Full Stack.
+</br>
+
+- 📚 Atualmente estou cursando Ciências da Computação.
+- 📧 Como entrar em contato comigo: Dener.empresa.2017@gmail.com
+- 💡 Curiosidade: Estudando atualmente Python, C# e MongoDB.   
+
+</br>
+</br>
+</br>
+</br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DenerSCHMIDT&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 160px;"/><img src='https://randommeme-five.vercel.app/' style="height: 160px;"/><img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img src='https://randommeme-five.vercel.app/' style="height: 250px;"/>
 
 
 ---
