@@ -3,12 +3,12 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 </br>
-Hello! I'm Dener Schmidt, Full Stack Developer.
+Hello! My name is Dener Schmidt, and I'm a Full Stack Developer.
 </br>
 
 - 📚 I'm currently studying Computer Science.
-- 📧 How to contact me: Dener.empresa.2017@gmail.com
-- 💡 Fun fact: Currently studying Python, C# and MongoDB.   
+- 📧 For any inquiries, feel free to reach out to me via email: Dener.empresa.2017@gmail.com
+- 💡 Currently, I work as a back-end developer at VendaERP.   
 
 </br>
 
