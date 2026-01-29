@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 </br>
-Hello! My name is Dener Schmidt, and I'm a Full Stack Developer.
+Hello! My name is Dener Schmidt, and I'm a Full Stack Developer - Pleno.
 </br>
 
 - 📚 I'm currently studying Computer Science.
